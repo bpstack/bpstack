@@ -38,10 +38,11 @@ Currently building **Four-Points**, a comprehensive hotel management system.
 > Let the AI handle the easy parts, test everything, cut the useless bits — build things people actually use.  
 > Keep shipping.
 
-If you want to know more, check out my portfolio:
+If you want to know more, check out my portfolio:<br>
 <a href="https://www.stackbp.es">
   <img src="https://img.shields.io/badge/Visit%20Portfolio-000000?style=for-the-badge" style="vertical-align: middle; margin-left: 8px;">
 </a>
+
 
 
 
