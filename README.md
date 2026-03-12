@@ -33,6 +33,8 @@ Currently building **Four-Points**, a comprehensive hotel management system.
 - Internal tools (go check my portfolio)  
 - PTA web apps (Parent–Teacher Association)  
 - E-commerce platforms
+- Personal Professional System Desktop app
+- Home Account app
 ````
 
 🛠️ **Stack**
