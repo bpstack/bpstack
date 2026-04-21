@@ -1,7 +1,4 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=800&color=61DAFB&vCenter=true&width=1000&height=150&lines=bpstack+%E2%9A%A1+full+stack+dev;There+is+no+problems;only+challenges+waiting+to+be+understood)
----
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=800&color=61DAFB&vCenter=true&width=1000&height=150&lines=Hello+👋;stackbp.listen(PORT);Let's+do+a+req;GET+%2Fapi%2Fdeveloper%3Fsolo%3Dtrue;200+OK)
 
 ---
 
