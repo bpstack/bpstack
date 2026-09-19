@@ -11,10 +11,10 @@ My learning path? Googling error messages nonstop, deep-diving into Stack Overfl
 🙏 Thanks to My mentors
 
 ````
-- SuperSimpleDev
-- Brad Traversy
 - midudev
 - Nicolás Schürmann
+- SuperSimpleDev
+- Brad Traversy
 ````
 
 ---
