@@ -34,7 +34,7 @@ Currently building **[Four-Points](https://hotelcode.stackbp.es/)**, a comprehen
 - Personal finance manager — bank import, AI categorization, investment tracking ([home-account-showcase](https://github.com/bpstack/home-account-showcase))
 - Self-hosted productivity dashboard — mission-to-task tracking with GitHub sync ([matrix-cubepath](https://github.com/bpstack/matrix-cubepath))
 - Technical website audits — performance, security, accessibility and SEO analysis with migration proposals ([web-audit](https://github.com/bpstack/web-audit))
-- PTA web apps — sites for Parent–Teacher associations
+- PTA web apps — sites for Parent–Teacher associations ([AMPA Mariana Pineda](https://ampamarianapineda.stackbp.es/es/))
 - Internal tools & automations for hospitality and friends
 
 🛠️ **Stack**
