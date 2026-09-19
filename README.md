@@ -23,13 +23,13 @@ I’ve spent years shipping tools for the hospitality industry and beyond.
 Built hotel management systems, dashboards for school associations (parenting teaches: opportunities to build show up everywhere), and custom workflow automations for friends.
 
 Today, I build full-stack apps from scratch: end-to-end hotel management platforms, databases, web apps, and e-commerce sites — backend, frontend, and everything in between.  
-Currently building **Four-Points**, a comprehensive hotel management system.
+Currently building **[Four-Points](https://hotelcode.stackbp.es/)**, a comprehensive hotel management system.
 
 ---
 
 💼 **What I've built**
 
-- Hotel PMS systems — end-to-end management platforms for real hotel operations (Four-Points)
+- Hotel PMS systems — end-to-end management platforms for real hotel operations ([Four-Points](https://hotelcode.stackbp.es/))
 - E-commerce platforms — full-stack stores with headless CMS and checkout ([ecommerce-bp-v2](https://github.com/bpstack/ecommerce-bp-v2))
 - Personal finance manager — bank import, AI categorization, investment tracking ([home-account-showcase](https://github.com/bpstack/home-account-showcase))
 - Self-hosted productivity dashboard — mission-to-task tracking with GitHub sync ([matrix-cubepath](https://github.com/bpstack/matrix-cubepath))
