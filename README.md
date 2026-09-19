@@ -27,15 +27,15 @@ Currently building **Four-Points**, a comprehensive hotel management system.
 
 ---
 
-💼 **Built**
-````
-- Hotel PMS systems  
-- Internal tools (go check my portfolio)  
-- PTA web apps (Parent–Teacher Association)  
-- E-commerce platforms
-- Personal Professional System Desktop app
-- Home Account app
-````
+💼 **What I've built**
+
+- Hotel PMS systems — end-to-end management platforms for real hotel operations (Four-Points)
+- E-commerce platforms — full-stack stores with headless CMS and checkout ([ecommerce-bp-v2](https://github.com/bpstack/ecommerce-bp-v2))
+- Personal finance manager — bank import, AI categorization, investment tracking ([home-account-showcase](https://github.com/bpstack/home-account-showcase))
+- Self-hosted productivity dashboard — mission-to-task tracking with GitHub sync ([matrix-cubepath](https://github.com/bpstack/matrix-cubepath))
+- Technical website audits — performance, security, accessibility and SEO analysis with migration proposals ([web-audit](https://github.com/bpstack/web-audit))
+- PTA web apps — sites for Parent–Teacher associations
+- Internal tools & automations for hospitality and friends
 
 🛠️ **Stack**
 ```
