@@ -64,7 +64,7 @@
     <td width="50%" valign="top">
       <h3><a href="https://github.com/bpstack/harness">harness</a></h3>
       Scaffolding and governance for AI-assisted projects: shared rules, reviewer / security / tester subagents, dry-run by default.
-      <br /><br /><sub><code>Node.js</code> <code>Bash</code> <code>Claude Code</code></sub>
+      <br /><br /><sub><code>Node.js</code> <code>Bash</code> <code>Claude Code</code> <code>opencode</code></sub>
     </td>
   </tr>
   <tr>
@@ -94,8 +94,8 @@
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://ampamarianapineda.stackbp.es/">AMPA Mariana Pineda</a></h3>
-      Bilingual institutional site with blog, RSS and community forum. Private repository at the association's request.
-      <br /><br /><sub><code>Astro</code> <code>React</code> <code>Firebase</code></sub>
+      Live site for a school parents' association: community forum with Firebase auth and server-enforced rules — moderation, anti-spam, audit log. Private repository at the association's request.
+      <br /><br /><sub><code>Astro</code> <code>React</code> <code>Firebase</code> <code>Zod</code></sub>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/bpstack/home-account-showcase">Home Account</a></h3>
