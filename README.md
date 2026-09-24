@@ -94,7 +94,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>AMPA Mariana Pineda&nbsp; <a href="https://ampamarianapineda.stackbp.es/"><img src="https://api.iconify.design/lucide/globe.svg?color=%232ea043&width=18&height=18" alt="website" align="top" /></a></h3>
-      Live site for a school parents' association: community forum with Firebase auth and server-enforced rules — moderation, anti-spam, audit log. Private repository at the association's request.
+      Live site for a school parents' association, with a community forum secured by server-side Firebase rules. Private repository at the association's request.
       <br /><br /><sub><code>Astro</code> <code>React</code> <code>Firebase</code> <code>Zod</code></sub>
     </td>
     <td width="50%" valign="top">
