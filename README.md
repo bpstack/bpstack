@@ -1,6 +1,6 @@
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0550b3,60:0860d4,100:2f81f7&height=190&section=header&text=bpstack&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Hotel%20software%20%C2%B7%20PMS%20%C2%B7%20Integrations&descSize=18&descAlignY=58" /><img src="https://capsule-render.vercel.app/api?type=waving&color=0:07090c,55:0f3d1c,100:2ea043&height=190&section=header&text=bpstack&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Hotel%20software%20%C2%B7%20PMS%20%C2%B7%20Integrations&descSize=18&descAlignY=58" width="100%" alt="bpstack — Hotel software · PMS · Integrations" /></picture>
+<picture><source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0550b3%2C60:0860d4%2C100:2f81f7&height=190&section=header&text=bpstack&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Hotel%20software%20%C2%B7%20PMS%20%C2%B7%20Integrations&descSize=18&descAlignY=58" /><img src="https://capsule-render.vercel.app/api?type=waving&color=0:07090c,55:0f3d1c,100:2ea043&height=190&section=header&text=bpstack&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Hotel%20software%20%C2%B7%20PMS%20%C2%B7%20Integrations&descSize=18&descAlignY=58" width="100%" alt="bpstack — Hotel software · PMS · Integrations" /></picture>
 
 <picture><source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=0860D4&center=true&vCenter=true&width=640&height=48&lines=Full-stack+developer;Hotel+PMS+%26+hospitality+integrations;Built+from+13%2B+years+inside+hotel+operations" /><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=3FB950&center=true&vCenter=true&width=640&height=48&lines=Full-stack+developer;Hotel+PMS+%26+hospitality+integrations;Built+from+13%2B+years+inside+hotel+operations" alt="Full-stack developer · Hotel PMS & hospitality integrations · Built from 13+ years inside hotel operations" /></picture>
 
@@ -45,7 +45,7 @@
       </ul>
     </td>
     <td width="40%" valign="middle" align="center">
-      <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nextjs,ts,nodejs,express,mysql&perline=5&theme=light" /><img src="https://skillicons.dev/icons?i=nextjs,ts,nodejs,express,mysql&perline=5&theme=dark" alt="Next.js · TypeScript · Node.js · Express · MySQL" /></picture>
+      <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nextjs%2Cts%2Cnodejs%2Cexpress%2Cmysql&perline=5&theme=light" /><img src="https://skillicons.dev/icons?i=nextjs,ts,nodejs,express,mysql&perline=5&theme=dark" alt="Next.js · TypeScript · Node.js · Express · MySQL" /></picture>
       <br /><br />
       <a href="https://hotelcode.stackbp.es/"><b>hotelcode.stackbp.es →</b></a>
     </td>
@@ -132,7 +132,7 @@
 ## 🛠️ Stack
 
 <p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mysql,postgres,sqlite,docker,astro,tailwind,dart,flutter,electron,git,linux&perline=9&theme=light" /><img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mysql,postgres,sqlite,docker,astro,tailwind,dart,flutter,electron,git,linux&perline=9&theme=dark" alt="TypeScript, JavaScript, React, Next.js, Node.js, Express, MySQL, PostgreSQL, SQLite, Docker, Astro, Tailwind, Dart, Flutter, Electron, Git, Linux" /></picture>
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Creact%2Cnextjs%2Cnodejs%2Cexpress%2Cmysql%2Cpostgres%2Csqlite%2Cdocker%2Castro%2Ctailwind%2Cdart%2Cflutter%2Celectron%2Cgit%2Clinux&perline=9&theme=light" /><img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mysql,postgres,sqlite,docker,astro,tailwind,dart,flutter,electron,git,linux&perline=9&theme=dark" alt="TypeScript, JavaScript, React, Next.js, Node.js, Express, MySQL, PostgreSQL, SQLite, Docker, Astro, Tailwind, Dart, Flutter, Electron, Git, Linux" /></picture>
 </p>
 
 ## ⚙️ How I work
@@ -145,4 +145,4 @@ const howIWork = {
 };
 ```
 
-<picture><source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:2f81f7,40:0860d4,100:0550b3&height=110&section=footer" /><img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ea043,45:0f3d1c,100:07090c&height=110&section=footer" width="100%" alt="" /></picture>
+<picture><source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:2f81f7%2C40:0860d4%2C100:0550b3&height=110&section=footer" /><img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ea043,45:0f3d1c,100:07090c&height=110&section=footer" width="100%" alt="" /></picture>
