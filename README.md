@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,55:0e4f6b,100:61dafb&height=190&section=header&text=bpstack&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Hotel%20software%20%C2%B7%20PMS%20%C2%B7%20Integrations&descSize=18&descAlignY=58" width="100%" alt="bpstack — Hotel software · PMS · Integrations" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07090c,55:0f3d1c,100:2ea043&height=190&section=header&text=bpstack&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Hotel%20software%20%C2%B7%20PMS%20%C2%B7%20Integrations&descSize=18&descAlignY=58" width="100%" alt="bpstack — Hotel software · PMS · Integrations" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=61DAFB&center=true&vCenter=true&width=640&height=48&lines=Full-stack+developer;Hotel+PMS+%26+hospitality+integrations;Built+from+13%2B+years+inside+hotel+operations" alt="Full-stack developer · Hotel PMS & hospitality integrations · Built from 13+ years inside hotel operations" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=3FB950&center=true&vCenter=true&width=640&height=48&lines=Full-stack+developer;Hotel+PMS+%26+hospitality+integrations;Built+from+13%2B+years+inside+hotel+operations" alt="Full-stack developer · Hotel PMS & hospitality integrations · Built from 13+ years inside hotel operations" />
 
 <br />
 
-<a href="https://www.stackbp.es"><img src="https://img.shields.io/badge/Portfolio-stackbp.es-0d1117?style=for-the-badge&labelColor=0e4f6b" alt="Portfolio" /></a>
-<a href="https://hotelcode.stackbp.es/"><img src="https://img.shields.io/badge/HotelCode-live-0d1117?style=for-the-badge&labelColor=61dafb&color=0d1117" alt="HotelCode live" /></a>
+<a href="https://www.stackbp.es"><img src="https://img.shields.io/badge/Portfolio-stackbp.es-0d1117?style=for-the-badge&labelColor=0f3d1c" alt="Portfolio" /></a>
+<a href="https://hotelcode.stackbp.es/"><img src="https://img.shields.io/badge/HotelCode-live-0d1117?style=for-the-badge&labelColor=2ea043&color=0d1117" alt="HotelCode live" /></a>
 
 </div>
 
@@ -71,7 +71,7 @@
     <td width="50%" valign="top">
       <h3><a href="https://github.com/bpstack/bp_pdf">BP PDF</a></h3>
       Local-first PDF annotation editor for Windows, Android and Linux. No server, no accounts — the original file is never modified.
-      <br /><br /><sub><code>Flutter</code> <code>Riverpod</code> <code>Clean Architecture</code></sub>
+      <br /><br /><sub><code>Dart</code> <code>Flutter</code> <code>Riverpod</code> <code>Clean Architecture</code></sub>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/bpstack/ecommerce-bp-v2">E-commerce</a></h3>
@@ -108,17 +108,13 @@
 ## 🛠️ Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mysql,postgres,sqlite,docker,astro,tailwind,flutter,electron,git,linux&perline=8" alt="TypeScript, JavaScript, React, Next.js, Node.js, Express, MySQL, PostgreSQL, SQLite, Docker, Astro, Tailwind, Flutter, Electron, Git, Linux" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mysql,postgres,sqlite,docker,astro,tailwind,dart,flutter,electron,git,linux&perline=9" alt="TypeScript, JavaScript, React, Next.js, Node.js, Express, MySQL, PostgreSQL, SQLite, Docker, Astro, Tailwind, Dart, Flutter, Electron, Git, Linux" />
 </p>
 
 ## ⚙️ How I work
 
-```ts
-const workflow = {
-  gate: 'CI — frozen lockfile, lint, format, types',
-  history: 'Conventional Commits + decision records',
-  ai: 'agents speed it up; architecture and security stay under my review',
-};
-```
+- **Checked before it counts** — every change passes automated checks (formatting, types, tests) before I call it done.
+- **A history that explains itself** — each commit says what changed and why, and key decisions are written down.
+- **AI as a tool, not a replacement** — AI agents help me move faster; design and security decisions stay mine.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:61dafb,45:0e4f6b,100:0d1117&height=110&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ea043,45:0f3d1c,100:07090c&height=110&section=footer" width="100%" alt="" />
