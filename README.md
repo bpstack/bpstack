@@ -57,48 +57,48 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/bpstack/matrix-cubepath">Matrix</a></h3>
+      <h3>Matrix&nbsp; <a href="https://matrix.stackbp.es"><img src="https://api.iconify.design/lucide/globe.svg?color=%232ea043&width=18&height=18" alt="website" align="top" /></a> <a href="https://github.com/bpstack/matrix-cubepath"><img src="https://api.iconify.design/lucide/github.svg?color=%232ea043&width=18&height=18" alt="repository" align="top" /></a></h3>
       Self-hosted productivity platform: mission → objectives → plans → tasks, GitHub sync, one isolated database per user. Also as an <a href="https://github.com/bpstack/matrix-releases">Electron desktop app</a>.
       <br /><br /><sub><code>React</code> <code>Express</code> <code>Drizzle</code> <code>SQLite</code> <code>Docker</code></sub>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/bpstack/harness">harness</a></h3>
+      <h3>harness&nbsp; <a href="https://github.com/bpstack/harness"><img src="https://api.iconify.design/lucide/github.svg?color=%232ea043&width=18&height=18" alt="repository" align="top" /></a></h3>
       Scaffolding and governance for AI-assisted projects: shared rules, reviewer / security / tester subagents, dry-run by default.
       <br /><br /><sub><code>Node.js</code> <code>Bash</code> <code>Claude Code</code> <code>opencode</code></sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/bpstack/bp_pdf">BP PDF</a></h3>
+      <h3>BP PDF&nbsp; <a href="https://github.com/bpstack/bp_pdf/releases/latest"><img src="https://api.iconify.design/lucide/download.svg?color=%232ea043&width=18&height=18" alt="download" align="top" /></a> <a href="https://github.com/bpstack/bp_pdf"><img src="https://api.iconify.design/lucide/github.svg?color=%232ea043&width=18&height=18" alt="repository" align="top" /></a></h3>
       Local-first PDF annotation editor for Windows, Android and Linux. No server, no accounts — the original file is never modified.
       <br /><br /><sub><code>Dart</code> <code>Flutter</code> <code>Riverpod</code> <code>Clean Architecture</code></sub>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/bpstack/ecommerce-bp-v2">E-commerce</a></h3>
+      <h3>E-commerce&nbsp; <a href="https://e-shop.stackbp.es/"><img src="https://api.iconify.design/lucide/globe.svg?color=%232ea043&width=18&height=18" alt="website" align="top" /></a> <a href="https://github.com/bpstack/ecommerce-bp-v2"><img src="https://api.iconify.design/lucide/github.svg?color=%232ea043&width=18&height=18" alt="repository" align="top" /></a></h3>
       Online store on a headless CMS, with SSR/ISR, cart, authentication and checkout.
       <br /><br /><sub><code>Next.js</code> <code>Strapi</code> <code>TypeScript</code></sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/bpstack/web-audit">Web audit</a></h3>
+      <h3>Web audit&nbsp; <a href="https://web-audit-bp.vercel.app"><img src="https://api.iconify.design/lucide/globe.svg?color=%232ea043&width=18&height=18" alt="website" align="top" /></a> <a href="https://github.com/bpstack/web-audit"><img src="https://api.iconify.design/lucide/github.svg?color=%232ea043&width=18&height=18" alt="repository" align="top" /></a></h3>
       Anonymised audit of a corporate website: performance, security, accessibility, SEO and a migration plan.
       <br /><br /><sub><code>Astro</code> <code>Lighthouse</code> <code>WCAG</code></sub>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/bpstack/weather-bp">Weather</a></h3>
+      <h3>Weather&nbsp; <a href="https://weather.stackbp.es/"><img src="https://api.iconify.design/lucide/globe.svg?color=%232ea043&width=18&height=18" alt="website" align="top" /></a> <a href="https://github.com/bpstack/weather-bp"><img src="https://api.iconify.design/lucide/github.svg?color=%232ea043&width=18&height=18" alt="repository" align="top" /></a></h3>
       Offline-first weather PWA, installable on iOS and Android, with validated data and automatic updates.
       <br /><br /><sub><code>Next.js</code> <code>Serwist</code> <code>Zod</code></sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://ampamarianapineda.stackbp.es/">AMPA Mariana Pineda</a></h3>
+      <h3>AMPA Mariana Pineda&nbsp; <a href="https://ampamarianapineda.stackbp.es/"><img src="https://api.iconify.design/lucide/globe.svg?color=%232ea043&width=18&height=18" alt="website" align="top" /></a></h3>
       Live site for a school parents' association: community forum with Firebase auth and server-enforced rules — moderation, anti-spam, audit log. Private repository at the association's request.
       <br /><br /><sub><code>Astro</code> <code>React</code> <code>Firebase</code> <code>Zod</code></sub>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/bpstack/home-account-showcase">Home Account</a></h3>
+      <h3>Home Account&nbsp; <a href="https://home-account.stackbp.es/"><img src="https://api.iconify.design/lucide/globe.svg?color=%232ea043&width=18&height=18" alt="website" align="top" /></a> <a href="https://github.com/bpstack/home-account-showcase"><img src="https://api.iconify.design/lucide/github.svg?color=%232ea043&width=18&height=18" alt="repository" align="top" /></a></h3>
       Personal finance manager: bank-statement import with AI categorisation, budgets and investments. Installable PWA.
       <br /><br /><sub><code>Next.js</code> <code>TypeScript</code> <code>PWA</code></sub>
     </td>
