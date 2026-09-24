@@ -113,8 +113,12 @@
 
 ## ⚙️ How I work
 
-- **Checked before it counts** — every change passes automated checks (formatting, types, tests) before I call it done.
-- **A history that explains itself** — each commit says what changed and why, and key decisions are written down.
-- **AI as a tool, not a replacement** — AI agents help me move faster; design and security decisions stay mine.
+```ts
+const howIWork = {
+  checks: 'every change passes formatting, type and test checks before it counts as done',
+  history: 'each commit says what changed and why; key decisions are written down',
+  ai: 'agents help me move faster; design and security decisions stay mine',
+};
+```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ea043,45:0f3d1c,100:07090c&height=110&section=footer" width="100%" alt="" />
