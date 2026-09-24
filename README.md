@@ -57,7 +57,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Matrix</h3>
+      <h3>Matrix <sub><a href="https://github.com/midudev/hackaton-cubepath-2026">🏆 Top 10 · CubePath Hackathon 2026</a></sub></h3>
       Self-hosted productivity platform: mission → objectives → plans → tasks, GitHub sync, one isolated database per user. Also as an <a href="https://github.com/bpstack/matrix-releases">Electron desktop app</a>.
     </td>
     <td width="50%" valign="top">
@@ -142,6 +142,10 @@
     </td>
   </tr>
 </table>
+
+## 🤝 Open source
+
+<a href="https://github.com/midudev/spiderman-brand-new-day/pulls?q=is%3Apr+author%3Abpstack+is%3Amerged"><b>5 merged pull requests</b></a> to [midudev/spiderman-brand-new-day](https://github.com/midudev/spiderman-brand-new-day), the Spanish website for *Spider-Man: Brand New Day*: mobile layout fixes and an accessibility fix.
 
 ## 🛠️ Stack
 
