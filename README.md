@@ -57,7 +57,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Matrix <sub><a href="https://github.com/midudev/hackaton-cubepath-2026">🏆 Top 10 · CubePath Hackathon 2026</a></sub></h3>
+      <h3>Matrix <a href="https://github.com/midudev/hackaton-cubepath-2026"><img src="https://img.shields.io/badge/%F0%9F%8F%86_Top_10-CubePath_Hackathon_2026-2ea043?style=flat-square&labelColor=0f3d1c" alt="Top 10 · CubePath Hackathon 2026" align="absmiddle" /></a></h3>
       Self-hosted productivity platform: mission → objectives → plans → tasks, GitHub sync, one isolated database per user. Also as an <a href="https://github.com/bpstack/matrix-releases">Electron desktop app</a>.
     </td>
     <td width="50%" valign="top">
