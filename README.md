@@ -32,22 +32,20 @@
 
 ## 🏨 HotelCode
 
-> A multi-property Property Management System built from real front-office workflows — by someone who ran them.
-
 <table>
   <tr>
-    <td width="60%" valign="top">
-      <ul>
-        <li>Parking, group bookings, housekeeping reconciliation</li>
-        <li>Multi-shift cashier, daily closing and monthly audit</li>
-        <li>JWT authentication, role-based access control</li>
-        <li>Real-time notifications across departments</li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://skillicons.dev/icons?i=nextjs,ts,nodejs,express,mysql" alt="Next.js · TypeScript · Node.js · Express · MySQL" />
+    <td valign="top">
+      <h3>Four-Points <a href="https://github.com/bpstack/four-points"><img src="https://img.shields.io/badge/Open_source-MIT-21262d?style=flat-square&labelColor=2ea043" alt="Open source · MIT" align="absmiddle" /></a></h3>
+      Hotel operations app built from real front-office workflows — by someone who ran them: logbook, parking, maintenance, group bookings, multi-shift cashier, F&amp;B revenue, invoice backoffice, shift checklists and staff scheduling with an OR-Tools solver. Role-based access, notifications, Spanish and English.
       <br /><br />
-      <a href="https://hotelcode.stackbp.es/"><b>hotelcode.stackbp.es →</b></a>
+      <a href="https://four-points.stackbp.es"><b>Try the live demo →</b></a> &nbsp;·&nbsp; <a href="https://github.com/bpstack/four-points"><b>Source code</b></a> &nbsp;·&nbsp; <a href="https://hotelcode.stackbp.es/">hotelcode.stackbp.es</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <sub><code>Next.js</code> <code>TypeScript</code> <code>Express</code> <code>MySQL</code> <code>Python</code> <code>OR-Tools</code></sub>
+      <a href="https://four-points.stackbp.es" title="Live demo"><img src="https://api.iconify.design/lucide/globe.svg?color=%232ea043&width=15" alt="website" align="absmiddle" /></a>
+      <a href="https://github.com/bpstack/four-points" title="Source code"><img src="https://api.iconify.design/lucide/github.svg?color=%232ea043&width=15" alt="repository" align="absmiddle" /></a>
     </td>
   </tr>
 </table>
