@@ -3,13 +3,18 @@
 <a href="https://www.stackbp.es#gh-dark-mode-only"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:07090c,55:0f3d1c,100:2ea043&height=190&section=header&text=bpstack&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Hotel%20software%20%C2%B7%20PMS%20%C2%B7%20Integrations&descSize=18&descAlignY=58" width="100%" alt="bpstack — Hotel software · PMS · Integrations" /></a>
 <a href="https://www.stackbp.es#gh-light-mode-only"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0550b3,60:0860d4,100:2f81f7&height=190&section=header&text=bpstack&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Hotel%20software%20%C2%B7%20PMS%20%C2%B7%20Integrations&descSize=18&descAlignY=58" width="100%" alt="bpstack — Hotel software · PMS · Integrations" /></a>
 
-<a href="https://www.stackbp.es#gh-dark-mode-only"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=3FB950&center=true&vCenter=true&width=640&height=48&lines=Full-stack+developer;Hotel+PMS+%26+hospitality+integrations;Built+from+13%2B+years+inside+hotel+operations" alt="Full-stack developer · Hotel PMS & hospitality integrations · Built from 13+ years inside hotel operations" /></a>
-<a href="https://www.stackbp.es#gh-light-mode-only"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=0860D4&center=true&vCenter=true&width=640&height=48&lines=Full-stack+developer;Hotel+PMS+%26+hospitality+integrations;Built+from+13%2B+years+inside+hotel+operations" alt="Full-stack developer · Hotel PMS & hospitality integrations · Built from 13+ years inside hotel operations" /></a>
+<h3>13+ years running hotel front offices. Now I build the software they need.</h3>
+<p><sub>Full-stack developer · TypeScript · React · Node.js · constraint programming</sub></p>
 
-<a href="https://www.stackbp.es#gh-dark-mode-only"><img src="https://img.shields.io/badge/Portfolio-stackbp.es-0d1117?style=for-the-badge&labelColor=0f3d1c" alt="Portfolio" /></a>
-<a href="https://hotelcode.stackbp.es/#gh-dark-mode-only"><img src="https://img.shields.io/badge/HotelCode-live-0d1117?style=for-the-badge&labelColor=2ea043" alt="HotelCode live" /></a>
-<a href="https://www.stackbp.es#gh-light-mode-only"><img src="https://img.shields.io/badge/Portfolio-stackbp.es-0860d4?style=for-the-badge&labelColor=0550b3" alt="Portfolio" /></a>
-<a href="https://hotelcode.stackbp.es/#gh-light-mode-only"><img src="https://img.shields.io/badge/HotelCode-live-0550b3?style=for-the-badge&labelColor=0860d4" alt="HotelCode live" /></a>
+<p>
+  <a href="https://www.stackbp.es"><img src="https://api.iconify.design/lucide/globe.svg?color=%232ea043&width=16" alt="" align="absmiddle" /> stackbp.es</a>
+  &nbsp;·&nbsp;
+  <a href="https://hotelcode.stackbp.es/"><img src="https://api.iconify.design/lucide/hotel.svg?color=%232ea043&width=16" alt="" align="absmiddle" /> HotelCode</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/salvadorperez2021/"><img src="https://api.iconify.design/lucide/linkedin.svg?color=%232ea043&width=16" alt="" align="absmiddle" /> LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:contact.bstack@gmail.com"><img src="https://api.iconify.design/lucide/mail.svg?color=%232ea043&width=16" alt="" align="absmiddle" /> Email</a>
+</p>
 
 </div>
 
@@ -36,9 +41,11 @@
   <tr>
     <td valign="top">
       <h3>Four-Points <a href="https://github.com/bpstack/four-points"><img src="https://img.shields.io/badge/Open_source-MIT-21262d?style=flat-square&labelColor=2ea043" alt="Open source · MIT" align="absmiddle" /></a></h3>
-      Hotel operations app built from real front-office workflows — by someone who ran them: logbook, parking, maintenance, group bookings, multi-shift cashier, F&amp;B revenue, invoice backoffice, shift checklists and staff scheduling with an OR-Tools solver. Role-based access, notifications, Spanish and English.
+      Hotel operations app built from real front-office workflows — by someone who ran them. Its standout piece: a <b>staff scheduler that solves the monthly roster with constraint programming</b> (OR-Tools CP-SAT). Plus logbook, parking, maintenance, group bookings, multi-shift cashier, F&amp;B revenue, invoice backoffice and shift checklists. Role-based access, Spanish and English.
       <br /><br />
-      <a href="https://four-points.stackbp.es"><b>Try the live demo →</b></a> &nbsp;·&nbsp; <a href="https://github.com/bpstack/four-points"><b>Source code</b></a> &nbsp;·&nbsp; <a href="https://hotelcode.stackbp.es/">hotelcode.stackbp.es</a>
+      <a href="https://four-points.stackbp.es/login"><b>Live demo →</b></a> &nbsp;·&nbsp; <a href="https://github.com/bpstack/four-points"><b>Source code</b></a> &nbsp;·&nbsp; <a href="https://hotelcode.stackbp.es/">HotelCode</a>
+      <br /><br />
+      <a href="https://four-points.stackbp.es/login"><img src="https://raw.githubusercontent.com/bpstack/bpstack/main/assets/four-points-scheduling.png" width="100%" alt="Staff roster generated by the OR-Tools solver: shifts per employee and day, with daily coverage totals" /></a>
     </td>
   </tr>
   <tr>
