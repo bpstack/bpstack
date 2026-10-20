@@ -131,8 +131,8 @@
       Live site for a school parents' association, with a community forum secured by server-side Firebase rules. Private repository at the association's request.
     </td>
     <td valign="top">
-      <h3>Home Account</h3>
-      Personal finance manager: bank-statement import with AI categorisation, budgets and investments. Installable PWA.
+      <h3>Better Prompt</h3>
+      Claude Code mod: Haiku rewrites the draft in your prompt box, clearer and keeping its intent. You read its version and choose whether to use it — nothing is sent for you.
     </td>
   </tr>
   <tr>
@@ -141,9 +141,8 @@
       <a href="https://ampamarianapineda.stackbp.es/" title="Live site"><img src="https://api.iconify.design/lucide/globe.svg?color=%232ea043&width=15" alt="website" align="absmiddle" /></a>
     </td>
     <td>
-      <sub><code>Next.js</code> <code>TypeScript</code> <code>PWA</code></sub>
-      <a href="https://home-account.stackbp.es/" title="Live site"><img src="https://api.iconify.design/lucide/globe.svg?color=%232ea043&width=15" alt="website" align="absmiddle" /></a>
-      <a href="https://github.com/bpstack/home-account-showcase" title="Source code"><img src="https://api.iconify.design/lucide/github.svg?color=%232ea043&width=15" alt="repository" align="absmiddle" /></a>
+      <sub><code>TypeScript</code> <code>Claude Code</code> <code>Haiku</code></sub>
+      <a href="https://github.com/bpstack/better-prompt" title="Source code"><img src="https://api.iconify.design/lucide/github.svg?color=%232ea043&width=15" alt="repository" align="absmiddle" /></a>
     </td>
   </tr>
 </table>
