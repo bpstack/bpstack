@@ -121,8 +121,8 @@
     </td>
     <td>
       <sub><code>Next.js</code> <code>Serwist</code> <code>Zod</code></sub>
-      <a href="https://weather.stackbp.es/" title="Live site"><img src="https://api.iconify.design/lucide/globe.svg?color=%232ea043&width=15" alt="website" align="absmiddle" /></a>
-      <a href="https://github.com/bpstack/weather-bp" title="Source code"><img src="https://api.iconify.design/lucide/github.svg?color=%232ea043&width=15" alt="repository" align="absmiddle" /></a>
+      <a href="https://home-account.stackbp.es/" title="Live site"><img src="https://api.iconify.design/lucide/globe.svg?color=%232ea043&width=15" alt="website" align="absmiddle" /></a>
+      <a href="https://github.com/bpstack/home-account-showcase" title="Source code"><img src="https://api.iconify.design/lucide/github.svg?color=%232ea043&width=15" alt="repository" align="absmiddle" /></a>
     </td>
   </tr>
   <tr>
