@@ -120,7 +120,7 @@
       <a href="https://github.com/bpstack/web-audit" title="Source code"><img src="https://api.iconify.design/lucide/github.svg?color=%232ea043&width=15" alt="repository" align="absmiddle" /></a>
     </td>
     <td>
-      <sub><code>Next.js</code> <code>Serwist</code> <code>Zod</code></sub>
+      <sub><code>Next.js</code> <code>E2E encryption<code> <code>Argon2id</code> <code>AES-256</code></sub>
       <a href="https://home-account.stackbp.es/" title="Live site"><img src="https://api.iconify.design/lucide/globe.svg?color=%232ea043&width=15" alt="website" align="absmiddle" /></a>
       <a href="https://github.com/bpstack/home-account-showcase" title="Source code"><img src="https://api.iconify.design/lucide/github.svg?color=%232ea043&width=15" alt="repository" align="absmiddle" /></a>
     </td>
