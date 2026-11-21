@@ -109,8 +109,8 @@
       Anonymised audit of a corporate website: performance, security, accessibility, SEO and a migration plan.
     </td>
     <td valign="top">
-      <h3>Weather</h3>
-      Offline-first weather PWA, installable on iOS and Android, with validated data and automatic updates.
+      <h3>Home-Account</h3>
+      Personal Finance Manager: Bulk transaction importing, AI-powered categorization, smart budgeting, comprehensive investment tracking and analysis with an AI financial assistant, all in an installable PWA.
     </td>
   </tr>
   <tr>
